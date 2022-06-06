@@ -3,32 +3,33 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-06T22:41:59+01:00</updated>
+    <updated>2022-06-06T23:01:57+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
     <entry>
-        <title>Episode 1</title>
+        <title>                            Episode 1                    </title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/episode-1-1.html"/>
-        <id>https://loveisland.ml/episode-1-1.html</id>
+        <link href="https://loveisland.ml/2a3697a0332.html"/>
+        <id>https://loveisland.ml/2a3697a0332.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-06T22:41:59+01:00</updated>
+        <updated>2022-06-06T23:01:57+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://loveisland.ml/media/posts/61/ogsflove.png" alt="" />
-                    Available in the next minutes
+                        <img src="https://loveisland.ml/media/posts/62/62.jpg" alt="                            Episode 1                    " />
+                    Available in the next minutes Theres a new villa awaiting the new sexy singles in the return of Love Island.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/61/ogsflove.png" alt="" />
-                <h2>Available in the next minutes</h2>
+                    <img src="https://loveisland.ml/media/posts/62/62.jpg" alt="                            Episode 1                    " />
+                <h3>Available in the next minutes</h3>
+<p><br>Theres a new villa awaiting the new sexy singles in the return of Love Island.</p>
             ]]>
         </content>
     </entry>
