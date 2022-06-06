@@ -11,11 +11,11 @@
     },
     "items": [
         {
-            "id": "https://loveisland.ml/episode-1.html",
-            "url": "https://loveisland.ml/episode-1.html",
+            "id": "https://loveisland.ml/episode-1-1.html",
+            "url": "https://loveisland.ml/episode-1-1.html",
             "title": "Episode 1",
-            "summary": "Available after broadcast",
-            "content_html": "<h2><strong>Available after broadcast</strong></h2>",
+            "summary": "Available in the next minutes",
+            "content_html": "<h2>Available in the next minutes</h2>",
             "image": "https://loveisland.ml/media/posts/61/ogsflove.png",
             "author": {
                 "name": "loveisland"
@@ -24,7 +24,7 @@
                    "Episodes"
             ],
             "date_published": "2022-06-05T23:50:24+01:00",
-            "date_modified": "2022-06-05T23:50:24+01:00"
+            "date_modified": "2022-06-06T22:41:59+01:00"
         },
         {
             "id": "https://loveisland.ml/love-island-the-morning-after-returns.html",

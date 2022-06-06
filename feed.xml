@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-05T23:50:24+01:00</updated>
+    <updated>2022-06-06T22:41:59+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -14,21 +14,21 @@
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/episode-1.html"/>
-        <id>https://loveisland.ml/episode-1.html</id>
+        <link href="https://loveisland.ml/episode-1-1.html"/>
+        <id>https://loveisland.ml/episode-1-1.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-05T23:50:24+01:00</updated>
+        <updated>2022-06-06T22:41:59+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://loveisland.ml/media/posts/61/ogsflove.png" alt="" />
-                    Available after broadcast
+                    Available in the next minutes
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/61/ogsflove.png" alt="" />
-                <h2><strong>Available after broadcast</strong></h2>
+                <h2>Available in the next minutes</h2>
             ]]>
         </content>
     </entry>
