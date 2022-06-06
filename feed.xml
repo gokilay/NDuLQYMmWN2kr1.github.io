@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-06T23:31:34+01:00</updated>
+    <updated>2022-06-06T23:41:29+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -18,12 +18,18 @@
         <id>https://loveisland.ml/2a3697a0332.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-06T23:31:34+01:00</updated>
-            <summary></summary>
+        <updated>2022-06-06T23:41:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://loveisland.ml/media/posts/62/62.jpg" alt="                            Episode 1                    " />
+                    The first few minutes look a bit laggy, but when it starts it looks perfect :) Soon it will be uploaded without commercials.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/62/62.jpg" alt="                            Episode 1                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3665555753498" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+                <p><strong>The first few minutes look a bit laggy, but when it starts it looks perfect :) </strong><br><strong>Soon it will be uploaded without commercials.</strong></p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3665555753498" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

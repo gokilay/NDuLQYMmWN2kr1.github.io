@@ -14,7 +14,8 @@
             "id": "https://loveisland.ml/2a3697a0332.html",
             "url": "https://loveisland.ml/2a3697a0332.html",
             "title": "                            Episode 1                    ",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3665555753498\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "summary": "The first few minutes look a bit laggy, but when it starts it looks perfect :) Soon it will be uploaded without commercials.",
+            "content_html": "<p><strong>The first few minutes look a bit laggy, but when it starts it looks perfect :) </strong><br><strong>Soon it will be uploaded without commercials.</strong></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3665555753498\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://loveisland.ml/media/posts/62/62.jpg",
             "author": {
                 "name": "loveisland"
@@ -23,7 +24,7 @@
                    "Episodes"
             ],
             "date_published": "2022-06-06T23:01:40+01:00",
-            "date_modified": "2022-06-06T23:31:34+01:00"
+            "date_modified": "2022-06-06T23:41:29+01:00"
         },
         {
             "id": "https://loveisland.ml/love-island-the-morning-after-returns.html",
