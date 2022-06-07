@@ -30,8 +30,7 @@
             "id": "https://loveisland.ml/2a3697a0333.html",
             "url": "https://loveisland.ml/2a3697a0333.html",
             "title": "                            Episode 2                    ",
-            "summary": "Available in the next minutes The cast of young singles settle into their routine of dating, flirting, dumping and more.",
-            "content_html": "<h3>Available in the next minutes</h3><br>                    The cast of young singles settle into their routine of dating, flirting, dumping and more.                ",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3668071025178\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://loveisland.ml/media/posts/63/63.jpg",
             "author": {
                 "name": "loveisland"
@@ -40,7 +39,7 @@
                    "Episodes"
             ],
             "date_published": "2022-06-06T23:01:40+01:00",
-            "date_modified": "2022-06-06T23:01:40+01:00"
+            "date_modified": "2022-06-08T00:20:56+01:00"
         },
         {
             "id": "https://loveisland.ml/love-island-the-morning-after-returns.html",
