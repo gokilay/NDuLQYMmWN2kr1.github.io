@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-08T23:58:23+01:00</updated>
+    <updated>2022-06-09T00:08:16+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -18,19 +18,12 @@
         <id>https://loveisland.ml/2a3697a0334.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-08T23:58:23+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://loveisland.ml/media/posts/65/65.jpg" alt="                            Episode 3                    " />
-                    Available in the next minutes (PROCESSING) Today it is taking longer than usual to process, from tomorrow we will have a separate server to record&hellip;
-                ]]>
-            </summary>
+        <updated>2022-06-09T00:08:16+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/65/65.jpg" alt="                            Episode 3                    " />
-                <h3>Available in the next minutes (PROCESSING)</h3>
-<p>Today it is taking longer than usual to process, from tomorrow we will have a separate server to record the episode without commercials and upload it without waiting.</p>
-<p><br>Liam tells Gemma how he feels as Davide and Gemma head out on their first date.</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3670764751386" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
