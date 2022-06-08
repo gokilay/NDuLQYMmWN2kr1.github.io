@@ -3,27 +3,32 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-08T20:07:05+01:00</updated>
+    <updated>2022-06-08T22:07:06+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
     <entry>
-        <title>LIVE: Episode 3</title>
+        <title>                            Episode 3                    </title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/live-episode.html"/>
-        <id>https://loveisland.ml/live-episode.html</id>
+        <link href="https://loveisland.ml/2a3697a0334.html"/>
+        <id>https://loveisland.ml/2a3697a0334.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-08T20:07:05+01:00</updated>
-            <summary></summary>
+        <updated>2022-06-08T22:07:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://loveisland.ml/media/posts/65/65.jpg" alt="                            Episode 3                    " />
+                    Available in the next minutes Liam tells Gemma how he feels as Davide and Gemma head out on their first date.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/64/ogsflove.png" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/OV_O0ly1Lj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://loveisland.ml/media/posts/65/65.jpg" alt="                            Episode 3                    " />
+                <h3>Available in the next minutes</h3><br>                    Liam tells Gemma how he feels as Davide and Gemma head out on their first date.                
             ]]>
         </content>
     </entry>
