@@ -3,29 +3,12 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-09T21:02:57+01:00</updated>
+    <updated>2022-06-09T22:22:05+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
-    <entry>
-        <title>LIVE: Episode 4</title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/live-episode-4.html"/>
-        <id>https://loveisland.ml/live-episode-4.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-09T21:02:57+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/76KKRIWoxGA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>                            Episode 3                    </title>
         <author>
@@ -41,6 +24,24 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/65/65.jpg" alt="                            Episode 3                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3670764751386" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>                            Episode 4                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0335.html"/>
+        <id>https://loveisland.ml/2a3697a0335.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-09T22:22:05+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/67/67.jpg" alt="                            Episode 4                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3673648007706" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
