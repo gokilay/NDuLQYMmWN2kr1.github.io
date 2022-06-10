@@ -3,12 +3,29 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-09T22:22:05+01:00</updated>
+    <updated>2022-06-10T21:02:45+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
+    <entry>
+        <title>LIVE: Episode 5</title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/live-episode-5.html"/>
+        <id>https://loveisland.ml/live-episode-5.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-10T21:02:45+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/-vlv9oFC7is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>                            Episode 3                    </title>
         <author>
