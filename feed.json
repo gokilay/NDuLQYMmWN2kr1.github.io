@@ -74,8 +74,7 @@
             "id": "https://loveisland.ml/2a3697a0338.html",
             "url": "https://loveisland.ml/2a3697a0338.html",
             "title": "                            Episode 7                    ",
-            "summary": "Available in the next minutes The second week of Love Island continues.",
-            "content_html": "<h3>Available in the next minutes</h3><br>                    The second week of Love Island continues.                ",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3686458395162\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://loveisland.ml/media/posts/71/71.jpg",
             "author": {
                 "name": "loveisland"
@@ -84,7 +83,7 @@
                    "Episodes"
             ],
             "date_published": "2022-06-08T22:07:06+01:00",
-            "date_modified": "2022-06-08T22:07:06+01:00"
+            "date_modified": "2022-06-12T23:20:41+01:00"
         },
         {
             "id": "https://loveisland.ml/2a3697a0332.html",
