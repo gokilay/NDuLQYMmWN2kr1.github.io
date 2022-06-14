@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-14T22:05:44+01:00</updated>
+    <updated>2022-06-14T22:39:14+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://loveisland.ml/2a3697a0340.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-14T22:05:44+01:00</updated>
+        <updated>2022-06-14T22:39:14+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/74/74.jpg" alt="                            Episode 9                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/DLAv5NN2Ufo?start=95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3693647366682" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
