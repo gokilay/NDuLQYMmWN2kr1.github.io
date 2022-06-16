@@ -3,12 +3,30 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-16T20:56:12+01:00</updated>
+    <updated>2022-06-16T22:06:07+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
+    <entry>
+        <title>                            Episode 11                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0342.html"/>
+        <id>https://loveisland.ml/2a3697a0342.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-16T22:06:07+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/77/77.jpg" alt="                            Episode 11                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3683104726554" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>                            Episode 9                    </title>
         <author>
@@ -174,24 +192,6 @@
                     <img src="https://loveisland.ml/media/posts/62/62.jpg" alt="                            Episode 1                    " />
                 <p><strong>The first few minutes look a bit laggy (skip to 2:35)</strong><br><strong>Soon it will be uploaded without commercials.</strong></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3665555753498" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 2                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0333.html"/>
-        <id>https://loveisland.ml/2a3697a0333.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-08T06:32:45+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/63/63.jpg" alt="                            Episode 2                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3668408011290" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
