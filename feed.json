@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://loveisland.ml/live-episode-11-2.html",
-            "url": "https://loveisland.ml/live-episode-11-2.html",
-            "title": "LIVE: Episode 12",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3701808176666\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://loveisland.ml/media/posts/78/LOVE_ISLAND_SR7_VILLA_02.jpg",
-            "author": {
-                "name": "loveisland"
-            },
-            "tags": [
-                   "Episodes"
-            ],
-            "date_published": "2022-06-17T20:54:37+01:00",
-            "date_modified": "2022-06-17T20:58:07+01:00"
-        },
-        {
             "id": "https://loveisland.ml/2a3697a0342.html",
             "url": "https://loveisland.ml/2a3697a0342.html",
             "title": "                            Episode 11                    ",
@@ -39,6 +24,21 @@
             ],
             "date_published": "2022-06-16T22:05:50+01:00",
             "date_modified": "2022-06-16T23:07:48+01:00"
+        },
+        {
+            "id": "https://loveisland.ml/2a3697a0343.html",
+            "url": "https://loveisland.ml/2a3697a0343.html",
+            "title": "                            Episode 12                    ",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/3701808176666\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://loveisland.ml/media/posts/79/79.jpg",
+            "author": {
+                "name": "loveisland"
+            },
+            "tags": [
+                   "Episodes"
+            ],
+            "date_published": "2022-06-16T22:05:50+01:00",
+            "date_modified": "2022-06-17T22:07:59+01:00"
         },
         {
             "id": "https://loveisland.ml/2a3697a0340.html",

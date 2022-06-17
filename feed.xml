@@ -3,30 +3,12 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-17T20:58:07+01:00</updated>
+    <updated>2022-06-17T22:07:59+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
-    <entry>
-        <title>LIVE: Episode 12</title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/live-episode-11-2.html"/>
-        <id>https://loveisland.ml/live-episode-11-2.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-17T20:58:07+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/78/LOVE_ISLAND_SR7_VILLA_02.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3701808176666" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>                            Episode 11                    </title>
         <author>
@@ -42,6 +24,24 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/77/77.jpg" alt="                            Episode 11                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3699983261210" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>                            Episode 12                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0343.html"/>
+        <id>https://loveisland.ml/2a3697a0343.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-17T22:07:59+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/79/79.jpg" alt="                            Episode 12                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3701808176666" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
