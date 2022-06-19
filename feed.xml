@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-17T22:07:59+01:00</updated>
+    <updated>2022-06-19T07:51:08+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -36,12 +36,30 @@
         <id>https://loveisland.ml/2a3697a0343.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-17T22:07:59+01:00</updated>
+        <updated>2022-06-19T07:50:48+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/79/79.jpg" alt="                            Episode 12                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3701808176666" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>                            13. Unseen Bits 2                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0344.html"/>
+        <id>https://loveisland.ml/2a3697a0344.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-19T07:51:08+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/80/80.jpg" alt="                            13. Unseen Bits 2                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3706899340826" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/71/71.jpg" alt="                            Episode 7                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3686458395162" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 8                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0339.html"/>
-        <id>https://loveisland.ml/2a3697a0339.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-13T22:46:47+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/73/73.jpg" alt="                            Episode 8                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3690516122138" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
