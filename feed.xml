@@ -3,30 +3,12 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-19T20:53:01+01:00</updated>
+    <updated>2022-06-19T22:10:42+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
-    <entry>
-        <title>LIVE: Episode 14</title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/live-episode-14.html"/>
-        <id>https://loveisland.ml/live-episode-14.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-19T20:53:01+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/81/LOVE_ISLAND_SR7_VILLA_02.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3709075463706" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>                            Episode 11                    </title>
         <author>
@@ -78,6 +60,24 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/80/80.jpg" alt="                            13. Unseen Bits 2                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3706899340826" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>                            Episode 14                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0345.html"/>
+        <id>https://loveisland.ml/2a3697a0345.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-19T22:10:42+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/82/82.jpg" alt="                            Episode 14                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3709075463706" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
