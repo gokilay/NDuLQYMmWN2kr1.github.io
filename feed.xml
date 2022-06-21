@@ -3,30 +3,12 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-21T20:56:40+01:00</updated>
+    <updated>2022-06-21T23:00:10+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
-    <entry>
-        <title>LIVE: Episode 16</title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/live-episode-16.html"/>
-        <id>https://loveisland.ml/live-episode-16.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-21T20:56:40+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/85/LOVE_ISLAND_SR7_VILLA_02.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3715859095066" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>                            Episode 11                    </title>
         <author>
@@ -114,6 +96,24 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/84/84.jpg" alt="                            Episode 15                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3713122311706" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>                            Episode 16                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0347.html"/>
+        <id>https://loveisland.ml/2a3697a0347.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-21T23:00:10+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/86/86.jpg" alt="                            Episode 16                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3715859095066" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
