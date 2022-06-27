@@ -3,12 +3,30 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-27T09:34:28+01:00</updated>
+    <updated>2022-06-27T23:28:26+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
+    <entry>
+        <title>                            Episode 22                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0353.html"/>
+        <id>https://loveisland.ml/2a3697a0353.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-06-27T23:28:26+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/97/97.jpg" alt="                            Episode 22                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4397156731452" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Episode 21</title>
         <author>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/82/82.jpg" alt="                            Episode 14                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3709075463706" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 15                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0346.html"/>
-        <id>https://loveisland.ml/2a3697a0346.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-21T20:55:15+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/84/84.jpg" alt="                            Episode 15                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3713122311706" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
