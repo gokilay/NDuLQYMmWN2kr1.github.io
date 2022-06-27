@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-27T09:31:40+01:00</updated>
+    <updated>2022-06-27T09:33:46+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -42,18 +42,12 @@
         <id>https://loveisland.ml/2a3697a0351-2.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-27T09:31:36+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://loveisland.ml/media/posts/95/88.jpg" alt="                            20. Unseen Bits 3                    " />
-                    Available in the next minutes Strap yourselves in, it’s time for another jam-packed hour of exclusive unseen moments.
-                ]]>
-            </summary>
+        <updated>2022-06-27T09:33:46+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/95/88.jpg" alt="                            20. Unseen Bits 3                    " />
-                <h3>Available in the next minutes</h3>
-<p><br>Strap yourselves in, it’s time for another jam-packed hour of exclusive unseen moments.</p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4395159849532" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
