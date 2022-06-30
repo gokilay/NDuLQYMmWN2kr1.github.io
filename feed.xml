@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-06-29T23:34:34+01:00</updated>
+    <updated>2022-07-01T00:19:04+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -72,17 +72,12 @@
         <id>https://loveisland.ml/2a3697a0356.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-27T23:28:16+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://loveisland.ml/media/posts/100/100.jpg" alt="                            Episode 25                    " />
-                    Available in the next minutes Islanders learn the public have been voting
-                ]]>
-            </summary>
+        <updated>2022-07-01T00:19:04+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/100/100.jpg" alt="                            Episode 25                    " />
-                <h3>Available in the next minutes</h3><br>                    Islanders learn the public have been voting                
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4406010907196" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
