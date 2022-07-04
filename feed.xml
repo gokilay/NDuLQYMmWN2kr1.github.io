@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-03T23:42:59+01:00</updated>
+    <updated>2022-07-04T23:12:23+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -136,6 +136,24 @@
         </content>
     </entry>
     <entry>
+        <title>                            Episode 29                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0360.html"/>
+        <id>https://loveisland.ml/2a3697a0360.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-07-04T23:12:23+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/104/104.jpg" alt="                            Episode 29                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4417469614652" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Episode 21</title>
         <author>
             <name>loveisland</name>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/95/88.jpg" alt="                            20. Unseen Bits 3                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4395159849532" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Episode 19</title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0350-2.html"/>
-        <id>https://loveisland.ml/2a3697a0350-2.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-27T09:31:29+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/94/89.jpg" alt="                            Episode 19                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4389845278268" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
