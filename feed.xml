@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-04T23:12:23+01:00</updated>
+    <updated>2022-07-05T23:15:20+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -154,6 +154,24 @@
         </content>
     </entry>
     <entry>
+        <title>                            Episode 30                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0361.html"/>
+        <id>https://loveisland.ml/2a3697a0361.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-07-05T23:15:20+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/105/105.jpg" alt="                            Episode 30                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4419858008636" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Episode 21</title>
         <author>
             <name>loveisland</name>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/96/87.jpg" alt="                            Episode 21                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4395160832572" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>20. Unseen Bits 3</title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0351-2.html"/>
-        <id>https://loveisland.ml/2a3697a0351-2.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-27T09:33:46+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/95/88.jpg" alt="                            20. Unseen Bits 3                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4395159849532" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
