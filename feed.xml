@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-05T23:15:20+01:00</updated>
+    <updated>2022-07-06T23:23:43+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -172,20 +172,20 @@
         </content>
     </entry>
     <entry>
-        <title>Episode 21</title>
+        <title>                            Episode 31                    </title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0352-2.html"/>
-        <id>https://loveisland.ml/2a3697a0352-2.html</id>
+        <link href="https://loveisland.ml/2a3697a0362.html"/>
+        <id>https://loveisland.ml/2a3697a0362.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-06-27T09:34:28+01:00</updated>
+        <updated>2022-07-06T23:23:43+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/96/87.jpg" alt="                            Episode 21                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4395160832572" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://loveisland.ml/media/posts/106/106.jpg" alt="                            Episode 31                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4422713477692" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
