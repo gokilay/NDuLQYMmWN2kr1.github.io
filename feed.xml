@@ -3,12 +3,30 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-12T00:12:15+01:00</updated>
+    <updated>2022-07-12T23:46:09+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
+    <entry>
+        <title>                            Episode 37                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0368.html"/>
+        <id>https://loveisland.ml/2a3697a0368.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-07-12T23:46:09+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/113/113.jpg" alt="                            Episode 37                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4437006682684" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Episode 36</title>
         <author>
@@ -18,7 +36,7 @@
         <id>https://loveisland.ml/2a3697a0366-2.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-07-12T00:12:15+01:00</updated>
+        <updated>2022-07-12T23:45:45+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/104/104.jpg" alt="                            Episode 29                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4417469614652" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 30                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0361.html"/>
-        <id>https://loveisland.ml/2a3697a0361.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-07-05T23:15:20+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/105/105.jpg" alt="                            Episode 30                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4419858008636" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
