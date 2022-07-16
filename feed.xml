@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-15T23:25:57+01:00</updated>
+    <updated>2022-07-16T23:24:54+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -60,6 +60,24 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/117/117.jpg" alt="                            Episode 40                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4443092814396" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>                            41. Unseen Bits 6                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0372.html"/>
+        <id>https://loveisland.ml/2a3697a0372.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-07-16T23:24:54+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/118/118.jpg" alt="                            41. Unseen Bits 6                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4445044345404" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/100/100.jpg" alt="                            Episode 25                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4406010907196" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 26                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0357.html"/>
-        <id>https://loveisland.ml/2a3697a0357.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-07-01T23:26:51+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/101/101.jpg" alt="                            Episode 26                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4408555539004" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
