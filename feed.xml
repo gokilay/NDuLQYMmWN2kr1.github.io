@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-18T23:57:31+01:00</updated>
+    <updated>2022-07-19T23:48:09+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -126,17 +126,12 @@
         <id>https://loveisland.ml/2a3697a0375.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-07-13T23:40:30+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://loveisland.ml/media/posts/121/121.jpg" alt="                            Episode 44                    " />
-                    Available in the next minutes Islanders are invited to a VIP party
-                ]]>
-            </summary>
+        <updated>2022-07-19T23:48:09+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/121/121.jpg" alt="                            Episode 44                    " />
-                <h3>Available in the next minutes</h3><br>                    Islanders are invited to a VIP party                
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4450875804220" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
