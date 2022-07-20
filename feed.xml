@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-20T22:48:01+01:00</updated>
+    <updated>2022-07-21T00:13:07+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -18,17 +18,12 @@
         <id>https://loveisland.ml/2a3697a0376.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-07-20T22:48:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://loveisland.ml/media/posts/122/122.jpg" alt="                            Episode 45                    " />
-                    Available in the next minutes Islanders are surprised with four new bombshells.
-                ]]>
-            </summary>
+        <updated>2022-07-21T00:13:07+01:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/122/122.jpg" alt="                            Episode 45                    " />
-                <h3>Available in the next minutes</h3><br>                    Islanders are surprised with four new bombshells.                
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4452757146172" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
