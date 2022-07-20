@@ -3,12 +3,35 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-19T23:48:09+01:00</updated>
+    <updated>2022-07-20T22:48:01+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
+    <entry>
+        <title>                            Episode 45                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0376.html"/>
+        <id>https://loveisland.ml/2a3697a0376.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-07-20T22:48:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://loveisland.ml/media/posts/122/122.jpg" alt="                            Episode 45                    " />
+                    Available in the next minutes Islanders are surprised with four new bombshells.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/122/122.jpg" alt="                            Episode 45                    " />
+                <h3>Available in the next minutes</h3><br>                    Islanders are surprised with four new bombshells.                
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>                            Episode 38                    </title>
         <author>
@@ -168,24 +191,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/111/110.jpg" alt="                            Episode 35                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4434836326972" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 22                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0353.html"/>
-        <id>https://loveisland.ml/2a3697a0353.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-06-29T00:12:12+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/97/97.jpg" alt="                            Episode 22                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4397156731452" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
