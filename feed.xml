@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-07-28T00:20:30+01:00</updated>
+    <updated>2022-07-28T23:10:50+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -100,6 +100,24 @@
         </content>
     </entry>
     <entry>
+        <title>                            Episode 53                    </title>
+        <author>
+            <name>loveisland</name>
+        </author>
+        <link href="https://loveisland.ml/2a3697a0384.html"/>
+        <id>https://loveisland.ml/2a3697a0384.html</id>
+            <category term="Episodes"/>
+
+        <updated>2022-07-28T23:10:50+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/140/140.jpg" alt="                            Episode 53                    " />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4470597618236" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>                            Episode 46                    </title>
         <author>
             <name>loveisland</name>
@@ -168,24 +186,6 @@
             <![CDATA[
                     <img src="https://loveisland.ml/media/posts/115/115.jpg" alt="                            Episode 38                    " />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4439055403580" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>                            Episode 39                    </title>
-        <author>
-            <name>loveisland</name>
-        </author>
-        <link href="https://loveisland.ml/2a3697a0370.html"/>
-        <id>https://loveisland.ml/2a3697a0370.html</id>
-            <category term="Episodes"/>
-
-        <updated>2022-07-15T23:25:44+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/116/116.jpg" alt="                            Episode 39                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4441115855420" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
