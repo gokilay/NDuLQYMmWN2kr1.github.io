@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://loveisland.ml/live-episode-57-final.html",
+            "url": "https://loveisland.ml/live-episode-57-final.html",
+            "title": "LIVE: Episode 57 - Final",
+            "image": "https://loveisland.ml/media/posts/144/LOVE_ISLAND_SR7_VILLA_02.jpg",
+            "author": {
+                "name": "loveisland"
+            },
+            "tags": [
+                   "Episodes"
+            ],
+            "date_published": "2022-08-01T11:54:43+01:00",
+            "date_modified": "2022-08-01T11:55:05+01:00"
+        },
+        {
             "id": "https://loveisland.ml/2a3697a0383-3.html",
             "url": "https://loveisland.ml/2a3697a0383-3.html",
             "title": "Episode 52",
@@ -144,21 +158,6 @@
             ],
             "date_published": "2022-07-28T00:13:59+01:00",
             "date_modified": "2022-08-01T01:16:41+01:00"
-        },
-        {
-            "id": "https://loveisland.ml/2a3697a0377.html",
-            "url": "https://loveisland.ml/2a3697a0377.html",
-            "title": "                            Episode 46                    ",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4454817729084\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://loveisland.ml/media/posts/123/123.jpg",
-            "author": {
-                "name": "loveisland"
-            },
-            "tags": [
-                   "Episodes"
-            ],
-            "date_published": "2022-07-21T22:47:18+01:00",
-            "date_modified": "2022-07-22T00:00:05+01:00"
         }
     ]
 }
