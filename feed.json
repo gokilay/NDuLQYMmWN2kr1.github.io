@@ -134,8 +134,7 @@
             "id": "https://loveisland.ml/2a3697a0387.html",
             "url": "https://loveisland.ml/2a3697a0387.html",
             "title": "                            Episode 56                    ",
-            "summary": "Available in the next minutes Islanders family and friends arrive at the Villa.",
-            "content_html": "<h3>Available in the next minutes</h3><br>                    Islanders family and friends arrive at the Villa.                ",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/4485900995132\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://loveisland.ml/media/posts/143/143.jpg",
             "author": {
                 "name": "loveisland"
@@ -144,7 +143,7 @@
                    "Episodes"
             ],
             "date_published": "2022-07-28T00:13:59+01:00",
-            "date_modified": "2022-07-28T00:13:59+01:00"
+            "date_modified": "2022-08-01T01:16:41+01:00"
         },
         {
             "id": "https://loveisland.ml/2a3697a0377.html",
