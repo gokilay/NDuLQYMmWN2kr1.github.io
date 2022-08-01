@@ -3,7 +3,7 @@
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-08-01T11:55:05+01:00</updated>
+    <updated>2022-08-01T20:59:58+01:00</updated>
     <author>
         <name>loveisland</name>
     </author>
@@ -18,9 +18,14 @@
         <id>https://loveisland.ml/live-episode-57-final.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-08-01T11:55:05+01:00</updated>
+        <updated>2022-08-01T20:59:58+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://loveisland.ml/media/posts/144/LOVE_ISLAND_SR7_VILLA_02.jpg" alt="" />
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/3826790178330" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Episode 52</title>
@@ -175,7 +180,7 @@
         <id>https://loveisland.ml/2a3697a0387.html</id>
             <category term="Episodes"/>
 
-        <updated>2022-08-01T01:16:41+01:00</updated>
+        <updated>2022-08-01T20:59:40+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
