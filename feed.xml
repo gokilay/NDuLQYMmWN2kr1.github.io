@@ -1,192 +1,152 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Love Island</title>
     <link href="https://loveisland.ml/feed.xml" rel="self" />
     <link href="https://loveisland.ml" />
-    <updated>2022-08-02T00:29:40+01:00</updated>
+    <updated>2023-02-03T09:20:23+00:00</updated>
     <author>
         <name>loveisland</name>
     </author>
     <id>https://loveisland.ml</id>
 
     <entry>
-        <title>Episode 52</title>
+        <title>Episode 1</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0383-3.html"/>
-        <id>https://loveisland.ml/2a3697a0383-3.html</id>
+        <link href="https://loveisland.ml/9x1.html"/>
+        <id>https://loveisland.ml/9x1.html</id>
+        <media:content url="https://loveisland.ml/media/posts/217/217.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-28T00:20:30+01:00</updated>
+        <updated>2023-02-03T08:41:03+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/139/125.jpg" alt="                            Episode 52                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4466583276092" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>Episode 51</title>
+        <title>Episode 2</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0382-3.html"/>
-        <id>https://loveisland.ml/2a3697a0382-3.html</id>
+        <link href="https://loveisland.ml/9x2.html"/>
+        <id>https://loveisland.ml/9x2.html</id>
+        <media:content url="https://loveisland.ml/media/posts/218/218.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-28T00:18:17+01:00</updated>
+        <updated>2023-02-03T08:41:35+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/138/126.jpg" alt="                            Episode 51                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4464581413436" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>Episode 50</title>
+        <title>Episode 4</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0381-3.html"/>
-        <id>https://loveisland.ml/2a3697a0381-3.html</id>
+        <link href="https://loveisland.ml/9x4.html"/>
+        <id>https://loveisland.ml/9x4.html</id>
+        <media:content url="https://loveisland.ml/media/posts/220/220.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-28T00:17:30+01:00</updated>
+        <updated>2023-02-03T09:20:23+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/137/127.jpg" alt="                            Episode 50                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4462621297212" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>Episode 49</title>
+        <title>Episode 5</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0380-3.html"/>
-        <id>https://loveisland.ml/2a3697a0380-3.html</id>
+        <link href="https://loveisland.ml/9x5.html"/>
+        <id>https://loveisland.ml/9x5.html</id>
+        <media:content url="https://loveisland.ml/media/posts/221/221.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-28T00:16:44+01:00</updated>
+        <updated>2023-02-03T08:43:39+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/136/128.jpg" alt="                            Episode 49                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4460683725372" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>48. Unseen Bits 7</title>
+        <title>Unseen Bits #1</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0379-3.html"/>
-        <id>https://loveisland.ml/2a3697a0379-3.html</id>
+        <link href="https://loveisland.ml/9x6.html"/>
+        <id>https://loveisland.ml/9x6.html</id>
+        <media:content url="https://loveisland.ml/media/posts/222/222.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-28T00:16:00+01:00</updated>
+        <updated>2023-02-03T08:44:42+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/135/129.jpg" alt="                            48. Unseen Bits 7                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4460675861052" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>                            Episode 53                    </title>
+        <title>Episode 7</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0384.html"/>
-        <id>https://loveisland.ml/2a3697a0384.html</id>
+        <link href="https://loveisland.ml/9x7.html"/>
+        <id>https://loveisland.ml/9x7.html</id>
+        <media:content url="https://loveisland.ml/media/posts/223/223.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-28T23:10:50+01:00</updated>
+        <updated>2023-02-03T08:45:30+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/140/140.jpg" alt="                            Episode 53                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4470597618236" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>                            Episode 54                    </title>
+        <title>Episode 8</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0385.html"/>
-        <id>https://loveisland.ml/2a3697a0385.html</id>
+        <link href="https://loveisland.ml/9x8.html"/>
+        <id>https://loveisland.ml/9x8.html</id>
+        <media:content url="https://loveisland.ml/media/posts/224/224.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-07-29T23:50:43+01:00</updated>
+        <updated>2023-02-03T08:46:14+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/141/141.jpg" alt="                            Episode 54                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4477858220604" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>                            55. Unseen Bits 8                    </title>
+        <title>Episode 10</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0386.html"/>
-        <id>https://loveisland.ml/2a3697a0386.html</id>
+        <link href="https://loveisland.ml/9x10.html"/>
+        <id>https://loveisland.ml/9x10.html</id>
+        <media:content url="https://loveisland.ml/media/posts/226/226.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-08-01T00:15:17+01:00</updated>
+        <updated>2023-02-03T08:47:53+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/142/142.jpg" alt="                            55. Unseen Bits 8                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4485872028220" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>                            Episode 56                    </title>
+        <title>Episode 11</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0387.html"/>
-        <id>https://loveisland.ml/2a3697a0387.html</id>
+        <link href="https://loveisland.ml/9x11.html"/>
+        <id>https://loveisland.ml/9x11.html</id>
+        <media:content url="https://loveisland.ml/media/posts/227/227.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-08-01T20:59:40+01:00</updated>
+        <updated>2023-02-03T08:49:36+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/143/143.jpg" alt="                            Episode 56                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4485900995132" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
-        <title>                            Episode 57                    </title>
+        <title>Episode 12</title>
         <author>
             <name>loveisland</name>
         </author>
-        <link href="https://loveisland.ml/2a3697a0388.html"/>
-        <id>https://loveisland.ml/2a3697a0388.html</id>
+        <link href="https://loveisland.ml/9x12.html"/>
+        <id>https://loveisland.ml/9x12.html</id>
+        <media:content url="https://loveisland.ml/media/posts/228/228.jpg" medium="image" />
             <category term="Episodes"/>
 
-        <updated>2022-08-02T00:29:40+01:00</updated>
+        <updated>2023-02-03T08:50:41+00:00</updated>
             <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://loveisland.ml/media/posts/145/145.jpg" alt="                            Episode 57                    " />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/4487849773628" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>
